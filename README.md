@@ -1,4 +1,4 @@
-# DailyTop100
+# Daily Top 100
 
 This Project uses [Puppeteer](https://pptr.dev/) to scrape the top 100 'gainers' in the stock market from [TradingView.com](https://www.tradingview.com/) and output them to the console
 
